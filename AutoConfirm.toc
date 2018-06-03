@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: AutoConfirm
+## Author: Kaminaris
+## Version: 7.3.5
+## SavedVariables: AutoConfirmDb
+
+AutoConfirm.lua
